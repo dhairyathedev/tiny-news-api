@@ -43,6 +43,13 @@ What user needs more...?
 ```
 
 
+## Roadmap
+
+- Additional endpoints for different news types
+
+- For more try creating a issue and suggest new ideas or report a bug or error
+
+
 ## Authors
 
 - [SnowBit](https://www.github.com/snowbit-coderboi)
