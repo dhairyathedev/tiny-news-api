@@ -1,4 +1,5 @@
 
+
 # Tiny - A News API
 
 It is a News Fetching totally *free* API (Application programming interface) for your next projects
@@ -7,6 +8,11 @@ It is a News Fetching totally *free* API (Application programming interface) for
 
 
 ## API Reference
+
+#### Endpoint
+```plain
+    https://tiny-news-api.herokuapp.com/api/
+```
 
 #### Get all news
 
