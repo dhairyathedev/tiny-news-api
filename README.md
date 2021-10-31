@@ -41,6 +41,12 @@ What user needs more...?
     GET /api/technology
 ```
 
+#### Get Space News
+
+```http
+    GET /api/space
+```
+
 #### Get Climate/Environment related news
 
 ```http
