@@ -35,6 +35,11 @@ What user needs more...?
   GET /api/sports
 ```
 
+#### Get Technology News
+
+```http
+    GET /api/technology
+```
 
 #### Get Climate/Environment related news
 
