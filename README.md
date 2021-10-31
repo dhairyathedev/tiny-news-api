@@ -2,7 +2,7 @@
 
 # Tiny - A News API
 
-It is a News Fetching totally *free* API (Application programming interface) for your next projects
+It is a News Fetching totally *free* API (Application programming interface) which fetches data in JSON format and can be used for your next projects
 
 
 ## Features
