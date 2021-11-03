@@ -10,6 +10,7 @@ It is a News Fetching totally *free* API (Application programming interface) whi
 - Easy to use
 - Totally Free
 - Requires no API key / token
+- Updates daily
 
 What user needs more...?
 
